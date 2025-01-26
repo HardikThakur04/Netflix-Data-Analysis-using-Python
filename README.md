@@ -1,4 +1,4 @@
-#Netflix Data Analysis using Python#
+##Netflix Data Analysis using Python##
 
 #Description#
 This project analyzes Netflix's dataset using Python to uncover trends, patterns, and actionable insights. It includes data visualization, content breakdown, and viewer preferences analysis, helping understand streaming platform dynamics.
