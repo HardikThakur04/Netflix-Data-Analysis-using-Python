@@ -12,7 +12,6 @@ Insights into the relationship between ratings and genres.
 Identification of patterns in viewer preferences.
 
 ## Dataset
-
 Title
 Genre
 Release Year
