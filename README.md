@@ -1,5 +1,7 @@
 ***Netflix Data Analysis using Python***
 
+![Library_project](https://github.com/HardikThakur04/Netflix-Data-Analysis-using-Python/blob/main/netflix%20image.jpg)
+
 **Description**
 This project analyzes Netflix's dataset using Python to uncover trends, patterns, and actionable insights. It includes data visualization, content breakdown, and viewer preferences analysis, helping understand streaming platform dynamics.
 
